@@ -1,0 +1,4 @@
+username: pdc20_user
+password: 123
+host: localhost
+db: pdc20
